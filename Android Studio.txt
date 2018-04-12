@@ -1,0 +1,4 @@
+Optamos por usar o Android Studio como plataforma de desenvolvimento pois ele suporta o Beacon.
+O Android Studio utiliza Java como linguagem de computação facilitando conexções com banco de dados por exemplo.
+O Android Studio é da JetBeans o que facilita usar outros compiladores do mesmo para pre-codar, o ambiente dispôe de uma ampla comunidade para tirar duvidas e etc.
+O Android Studio dispõe de acessibilidade em Internet of things em sua propria API.
